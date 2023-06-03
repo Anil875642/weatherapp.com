@@ -1,0 +1,11 @@
+
+lcloud_pct.innerHTML=result.cloud_pct;
+lfeels_like.innerHTML=result.feels_like
+lhumidity.innerHTML=result.humidity;
+lmax_temp.innerHTML=result.max_temp;
+lmin_temp.innerHTML=result.min_temp;
+lsunrise.innerHTML=result.sunrise;
+lsunset.innerHTML=result.sunset;
+ltemp.innerHTML=result.temp;
+lwind_degrees.innerHTML=result.wind_degrees;
+lwind_speed.innerHTML=result.wind_speed;
